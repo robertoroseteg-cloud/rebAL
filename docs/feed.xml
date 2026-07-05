@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/rebAL</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+    
+    <item>
+      <title>El manual de la ultraderecha para atacar a las feministas en América Latina</title>
+      <description>América Latina y Caribe – Rebelion — https://rebelion.org/el-manual-de-la-ultraderecha-para-atacar-a-las-feministas-en-america-latina/</description>
+      <link>https://rebelion.org/el-manual-de-la-ultraderecha-para-atacar-a-las-feministas-en-america-latina/</link>
+      <guid isPermaLink="false">a225da90ddff344f</guid>
+      <pubDate>Sun, 05 Jul 2026 23:06:18 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/a225da90ddff344f.mp3" length="6456672" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lonko mapuche enfrenta segundo juicio en Temuco mientras comunidades denuncian persecución y racismo judicial</title>
+      <description>América Latina y Caribe – Rebelion — https://rebelion.org/lonko-mapuche-enfrenta-segundo-juicio-en-temuco-mientras-comunidades-denuncian-persecucion-y-racismo-judicial/</description>
+      <link>https://rebelion.org/lonko-mapuche-enfrenta-segundo-juicio-en-temuco-mientras-comunidades-denuncian-persecucion-y-racismo-judicial/</link>
+      <guid isPermaLink="false">44bd088f8a54879f</guid>
+      <pubDate>Sun, 05 Jul 2026 23:06:09 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/44bd088f8a54879f.mp3" length="1392624" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿América Latina es la excepción?</title>
+      <description>América Latina y Caribe – Rebelion — https://rebelion.org/america-latina-es-la-excepcion/</description>
+      <link>https://rebelion.org/america-latina-es-la-excepcion/</link>
+      <guid isPermaLink="false">680806bd1043a71a</guid>
+      <pubDate>Sun, 05 Jul 2026 23:06:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/680806bd1043a71a.mp3" length="13436208" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Informe sobre la situación en Bolivia</title>
+      <description>América Latina y Caribe – Rebelion — https://rebelion.org/informe-sobre-la-situacion-en-bolivia/</description>
+      <link>https://rebelion.org/informe-sobre-la-situacion-en-bolivia/</link>
+      <guid isPermaLink="false">fc19df4cc1e15218</guid>
+      <pubDate>Sun, 05 Jul 2026 23:05:23 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/fc19df4cc1e15218.mp3" length="5608368" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Campamento Placilla de San Antonio emprende inédita acción legal: nadie puede ser desalojado sin juicio previo</title>
+      <description>América Latina y Caribe – Rebelion — https://rebelion.org/campamento-placilla-de-san-antonio-emprende-inedita-accion-legal-nadie-puede-ser-desalojado-sin-juicio-previo/</description>
+      <link>https://rebelion.org/campamento-placilla-de-san-antonio-emprende-inedita-accion-legal-nadie-puede-ser-desalojado-sin-juicio-previo/</link>
+      <guid isPermaLink="false">6ac93344eb21bf33</guid>
+      <pubDate>Sun, 05 Jul 2026 23:05:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/6ac93344eb21bf33.mp3" length="2744352" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Gendarmería usa artimaña jurídica para incumplir orden de traslado de Mauricio Hernández Norambuena a penal de Rancagua</title>
+      <description>América Latina y Caribe – Rebelion — https://rebelion.org/gendarmeria-usa-artimana-juridica-para-incumplir-orden-de-traslado-de-mauricio-hernandez-norambuena-a-penal-de-rancagua/</description>
+      <link>https://rebelion.org/gendarmeria-usa-artimana-juridica-para-incumplir-orden-de-traslado-de-mauricio-hernandez-norambuena-a-penal-de-rancagua/</link>
+      <guid isPermaLink="false">0c8e56b72ec3d670</guid>
+      <pubDate>Sun, 05 Jul 2026 23:04:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/0c8e56b72ec3d670.mp3" length="1106640" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Zulema, la intrépida “Claudia”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
+      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
+      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las guerras por Guerrero</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
+      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
+      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
+      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
+      <guid isPermaLink="false">0476f85ad805e9dc</guid>
+      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
+      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
+      <guid isPermaLink="false">93288eccb26a0137</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pero dos lo zarandeaban para que se callara</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
+      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
+      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
+      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
+      <guid isPermaLink="false">bd51fc61a35596c8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lo político en Cecosesola</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
+      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
+      <guid isPermaLink="false">731770e3cc47abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
+      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
+      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
+      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
+      <guid isPermaLink="false">599f2175eaa58998</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
+      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
+      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
+      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La mejor ayuda para Venezuela es levantar el bloqueo</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</description>
+      <link>https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</link>
+      <guid isPermaLink="false">9ab010c1c4dc0d72</guid>
+      <pubDate>Sun, 05 Jul 2026 06:04:36 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/9ab010c1c4dc0d72.mp3" length="1422144" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Reflexiones sobre el día que tembló la tierra</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/reflexiones-sobre-el-dia-cuando-temblo-la-tierra/</description>
+      <link>https://rebelion.org/reflexiones-sobre-el-dia-cuando-temblo-la-tierra/</link>
+      <guid isPermaLink="false">1f84211339589cd4</guid>
+      <pubDate>Sun, 05 Jul 2026 06:04:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/1f84211339589cd4.mp3" length="3278304" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Posterremoto en Venezuela: el riesgo de una ocupación militar disfrazada de reconstrucción</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/posterremoto-en-venezuela-el-riesgo-de-una-ocupacion-militar-disfrazada-de-reconstruccion/</description>
+      <link>https://rebelion.org/posterremoto-en-venezuela-el-riesgo-de-una-ocupacion-militar-disfrazada-de-reconstruccion/</link>
+      <guid isPermaLink="false">415e157481f468c8</guid>
+      <pubDate>Sun, 05 Jul 2026 06:03:40 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/415e157481f468c8.mp3" length="3322800" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Venezuela: que los escombros no tapen la realidad</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/venezuela-que-los-escombros-no-tapen-la-realidad/</description>
+      <link>https://rebelion.org/venezuela-que-los-escombros-no-tapen-la-realidad/</link>
+      <guid isPermaLink="false">1624460c840980c7</guid>
+      <pubDate>Sun, 05 Jul 2026 06:03:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/1624460c840980c7.mp3" length="2353536" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
