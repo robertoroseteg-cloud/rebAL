@@ -1,5 +1,32 @@
 [
   {
+    "id": "59d1a6c42306f5f4",
+    "titulo": "Geopolítica de la sed: el agua como nuevo eje de la acumulación",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/geopolitica-de-la-sed-el-agua-como-nuevo-eje-de-la-acumulacion/",
+    "archivo": "59d1a6c42306f5f4.mp3",
+    "bytes": 4339872,
+    "timestamp": 1785593076
+  },
+  {
+    "id": "dfc6c67042a1c3cc",
+    "titulo": "Entregar la tierra no es negocio",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/entregar-la-tierra-no-es-negocio/",
+    "archivo": "dfc6c67042a1c3cc.mp3",
+    "bytes": 5214672,
+    "timestamp": 1785593049
+  },
+  {
+    "id": "e6e089b4c8f6516c",
+    "titulo": "Central Clasista y reformas laborales de Kast: «La clase gobernante es una mala clase»",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/central-clasista-y-reformas-laborales-de-kast-la-clase-gobernante-es-una-mala-clase/",
+    "archivo": "e6e089b4c8f6516c.mp3",
+    "bytes": 2340288,
+    "timestamp": 1785593000
+  },
+  {
     "id": "491c30449d0a3b48",
     "titulo": "El rol de los aparatos ideológicos y la desinformación (y III)",
     "fuente": "América Latina y Caribe – Rebelion",
@@ -151,32 +178,5 @@
     "archivo": "7565739b0df17d54.mp3",
     "bytes": 2605536,
     "timestamp": 1785344435
-  },
-  {
-    "id": "08309a957d93f0dd",
-    "titulo": "Anticomunismo en la Delegación Cuauhtémoc",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/anticomunismo-en-la-delegacion-cuauhtemoc/",
-    "archivo": "08309a957d93f0dd.mp3",
-    "bytes": 1463904,
-    "timestamp": 1785344404
-  },
-  {
-    "id": "7241fa2ce943b9fd",
-    "titulo": "Alta tensión política: ¿a qué se debe?",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/alta-tension-politica-a-que-se-debe/",
-    "archivo": "7241fa2ce943b9fd.mp3",
-    "bytes": 5282928,
-    "timestamp": 1785344392
-  },
-  {
-    "id": "e39418c88a444fcb",
-    "titulo": "Economía y lucha de clases en Chile: un enfoque marxista",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/economia-y-lucha-de-clases-en-chile-un-enfoque-marxista/",
-    "archivo": "e39418c88a444fcb.mp3",
-    "bytes": 499392,
-    "timestamp": 1785344342
   }
 ]
