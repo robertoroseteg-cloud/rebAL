@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El energúmeno y el estadista</title>
+      <description>América Latina y Caribe – Rebelion — https://rebelion.org/el-energumeno-y-el-estadista/</description>
+      <link>https://rebelion.org/el-energumeno-y-el-estadista/</link>
+      <guid isPermaLink="false">63f1dc9a2d7fd553</guid>
+      <pubDate>Fri, 07 Aug 2026 13:46:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/63f1dc9a2d7fd553.mp3" length="3690432" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Crónica de una plaza llena y embarrada para gritar al Congreso que la Patria no se vende</title>
+      <description>América Latina y Caribe – Rebelion — https://rebelion.org/cronica-de-una-plaza-llena-y-embarrada-para-gritarle-al-congreso-que-la-patria-no-se-vende/</description>
+      <link>https://rebelion.org/cronica-de-una-plaza-llena-y-embarrada-para-gritarle-al-congreso-que-la-patria-no-se-vende/</link>
+      <guid isPermaLink="false">6c83434320523b80</guid>
+      <pubDate>Fri, 07 Aug 2026 13:44:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/6c83434320523b80.mp3" length="2571264" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La amenaza política de Washington contra Brasil</title>
+      <description>América Latina y Caribe – Rebelion — https://rebelion.org/la-amenaza-politica-de-washington-contra-brasil/</description>
+      <link>https://rebelion.org/la-amenaza-politica-de-washington-contra-brasil/</link>
+      <guid isPermaLink="false">7c2cdcd4b2d594d9</guid>
+      <pubDate>Fri, 07 Aug 2026 13:44:28 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/7c2cdcd4b2d594d9.mp3" length="1938096" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Una cuasi dictadura alineada con la doctrina Donroe</title>
       <description>América Latina y Caribe – Rebelion — https://rebelion.org/una-cuasi-dictadura-alineada-con-la-doctrina-donroe/</description>
       <link>https://rebelion.org/una-cuasi-dictadura-alineada-con-la-doctrina-donroe/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">deaad7c238f4af47</guid>
       <pubDate>Tue, 04 Aug 2026 14:48:30 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/deaad7c238f4af47.mp3" length="1279584" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Víctor Jara y las garras del Cóndor</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/victor-jara-y-las-garras-del-condor-por-alberto-nadra/</description>
-      <link>https://rebelion.org/victor-jara-y-las-garras-del-condor-por-alberto-nadra/</link>
-      <guid isPermaLink="false">a4ae49beb35f1aec</guid>
-      <pubDate>Tue, 04 Aug 2026 14:48:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/a4ae49beb35f1aec.mp3" length="4740048" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Logros en desarrollo humano y solidaridad internacional</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/logros-en-desarrollo-humano-y-solidaridad-internacional/</description>
-      <link>https://rebelion.org/logros-en-desarrollo-humano-y-solidaridad-internacional/</link>
-      <guid isPermaLink="false">b86e37725bedc6ec</guid>
-      <pubDate>Tue, 04 Aug 2026 14:47:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/b86e37725bedc6ec.mp3" length="5403888" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Desalojos, contaminación, persecución a comunidades preparan el terreno a la Ley de Extranjerización de Tierras</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/desalojos-contaminacion-persecucion-a-comunidades-preparan-el-terreno-a-la-ley-de-extranjerizacion-de-tierras/</description>
-      <link>https://rebelion.org/desalojos-contaminacion-persecucion-a-comunidades-preparan-el-terreno-a-la-ley-de-extranjerizacion-de-tierras/</link>
-      <guid isPermaLink="false">d85ba9dce72a7ab1</guid>
-      <pubDate>Mon, 03 Aug 2026 15:35:15 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/d85ba9dce72a7ab1.mp3" length="21919104" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
