@@ -1,5 +1,41 @@
 [
   {
+    "id": "9ad0b705f289e523",
+    "titulo": "Milei, el peón de Trump contra la integración sudamericana",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/milei-el-peon-de-trump-contra-la-integracion-sudamericana/",
+    "archivo": "9ad0b705f289e523.mp3",
+    "bytes": 3684240,
+    "timestamp": 1786369923
+  },
+  {
+    "id": "f4e8dd8c110c68f2",
+    "titulo": "El palenke como laboratorio político",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/el-palenke-como-laboratorio-politico/",
+    "archivo": "f4e8dd8c110c68f2.mp3",
+    "bytes": 6825024,
+    "timestamp": 1786369880
+  },
+  {
+    "id": "78022eead192a125",
+    "titulo": "Una película complica la campaña electoral de Flavio Bolsonaro",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/una-pelicula-complica-la-campana-electoral-de-flavio-bolsonaro/",
+    "archivo": "78022eead192a125.mp3",
+    "bytes": 2763072,
+    "timestamp": 1786369840
+  },
+  {
+    "id": "34896435085e2216",
+    "titulo": "Protestan este 10 de agosto en corporativo de Codelco ante su eventual privatización",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/protestan-este-10-de-agosto-en-corporativo-de-codelco-ante-su-eventual-privatizacion/",
+    "archivo": "34896435085e2216.mp3",
+    "bytes": 907776,
+    "timestamp": 1786369804
+  },
+  {
     "id": "1895e2270ca8ba08",
     "titulo": "Defender la paz, no rotundo al retorno de la guerra",
     "fuente": "América Latina y Caribe – Rebelion",
@@ -142,41 +178,5 @@
     "archivo": "64b4a99e379eeb97.mp3",
     "bytes": 7071696,
     "timestamp": 1786027353
-  },
-  {
-    "id": "f89467406a28960e",
-    "titulo": "Frente a la batalla contracultural de Milei oponemos la praxeología cooperaria",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/frente-a-la-batalla-contracultural-de-milei-oponemos-la-praxeologia-cooperaria/",
-    "archivo": "f89467406a28960e.mp3",
-    "bytes": 2338992,
-    "timestamp": 1785941173
-  },
-  {
-    "id": "d47c1c11ac785034",
-    "titulo": "Brasil enfrentado a sus fantasmas",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/brasil-enfrentado-a-sus-fantasmas/",
-    "archivo": "d47c1c11ac785034.mp3",
-    "bytes": 2679120,
-    "timestamp": 1785941152
-  },
-  {
-    "id": "b87713db780034cf",
-    "titulo": "El subdesarrollo: visión originaria",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/el-subdesarrollo-vision-originaria/",
-    "archivo": "b87713db780034cf.mp3",
-    "bytes": 3059856,
-    "timestamp": 1785941115
-  },
-  {
-    "id": "426f6ff16ab515d7",
-    "titulo": "DDHH en Chile: mes de julio",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/ddhh-en-chile-mes-de-julio/",
-    "archivo": "426f6ff16ab515d7.mp3",
-    "bytes": 7167600,
-    "timestamp": 1785941079
   }
 ]
