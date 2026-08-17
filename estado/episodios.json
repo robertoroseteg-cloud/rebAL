@@ -1,5 +1,50 @@
 [
   {
+    "id": "011388eca9934f23",
+    "titulo": "Entre la parálisis y la resistencia: el turismo cubano en verano",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/",
+    "archivo": "011388eca9934f23.mp3",
+    "bytes": 2708496,
+    "timestamp": 1786972670
+  },
+  {
+    "id": "8c36d3be26cbd304",
+    "titulo": "El petróleo venezolano acaparado por Washington",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/el-petroleo-venezolano-acaparado-por-washington-que-ha-sido-de-los-ingresos-petroleros-desde-el-3-de-enero-de-2026/",
+    "archivo": "8c36d3be26cbd304.mp3",
+    "bytes": 6900048,
+    "timestamp": 1786972642
+  },
+  {
+    "id": "af72f5a191784c8b",
+    "titulo": "La importancia estratégica de las elecciones brasileñas para la situación internacional",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/la-importancia-estrategica-de-la-eleccion-brasilena-para-la-situacion-internacional/",
+    "archivo": "af72f5a191784c8b.mp3",
+    "bytes": 2771568,
+    "timestamp": 1786972542
+  },
+  {
+    "id": "7aee2893d4a83c6d",
+    "titulo": "Kast entra a tierra derecha: análisis",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/kast-entra-a-tierra-derecha-analisis/",
+    "archivo": "7aee2893d4a83c6d.mp3",
+    "bytes": 12602736,
+    "timestamp": 1786972521
+  },
+  {
+    "id": "ddffb8dc58aab0c3",
+    "titulo": "La infiltración antillana de Cuba",
+    "fuente": "América Latina y Caribe – Rebelion",
+    "enlace": "https://rebelion.org/la-infiltracion-antillana-de-cuba/",
+    "archivo": "ddffb8dc58aab0c3.mp3",
+    "bytes": 4491072,
+    "timestamp": 1786972367
+  },
+  {
     "id": "5aa01e1babead6f2",
     "titulo": "Melesio Cuén y El Mayo Zambada: a dos años de la Operación Air Kings",
     "fuente": "América Latina y Caribe – Rebelion",
@@ -133,50 +178,5 @@
     "archivo": "28865bba90145065.mp3",
     "bytes": 3732912,
     "timestamp": 1786715405
-  },
-  {
-    "id": "7cb525d0904f2ec6",
-    "titulo": "El socialismo en la batalla ideológica y cultural",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/el-socialismo-en-la-batalla-ideologica-y-cultural/",
-    "archivo": "7cb525d0904f2ec6.mp3",
-    "bytes": 2750256,
-    "timestamp": 1786629844
-  },
-  {
-    "id": "0996ddba04dc138e",
-    "titulo": "Fidel Castro, el hombre, el estratega, el revolucionario",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/",
-    "archivo": "0996ddba04dc138e.mp3",
-    "bytes": 3177072,
-    "timestamp": 1786629807
-  },
-  {
-    "id": "50065d096f84fbd1",
-    "titulo": "Primer grito de independencia del Ecuador",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/primer-grito-de-independencia-del-ecuador/",
-    "archivo": "50065d096f84fbd1.mp3",
-    "bytes": 2905776,
-    "timestamp": 1786629778
-  },
-  {
-    "id": "6ea415258ad6f890",
-    "titulo": "El pueblo sigue movilizado contra la minería",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/el-pueblo-sigue-movilizado-contra-la-mineria/",
-    "archivo": "6ea415258ad6f890.mp3",
-    "bytes": 1643904,
-    "timestamp": 1786629766
-  },
-  {
-    "id": "0cc177438b77e805",
-    "titulo": "Terremoto transnacional de clase",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/terremoto-transnacional-de-clase/",
-    "archivo": "0cc177438b77e805.mp3",
-    "bytes": 2516256,
-    "timestamp": 1786629746
   }
 ]
