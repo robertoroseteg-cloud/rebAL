@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Dilema de la interculturalidad en América Latina</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/dilema-de-la-interculturalidad-en-america-latina/</description>
+      <link>https://rebelion.org/dilema-de-la-interculturalidad-en-america-latina/</link>
+      <guid isPermaLink="false">35cc1959a17bc769</guid>
+      <pubDate>Mon, 26 Oct 2026 18:45:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/35cc1959a17bc769.mp3" length="1963008" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La regresión teológica de América Latina y el Caribe (I)</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-regresion-teologica-de-america-latina-y-el-caribe-i/</description>
+      <link>https://rebelion.org/la-regresion-teologica-de-america-latina-y-el-caribe-i/</link>
+      <guid isPermaLink="false">e208729ec95e4185</guid>
+      <pubDate>Mon, 26 Oct 2026 18:45:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/e208729ec95e4185.mp3" length="3280896" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Escudo de las Américas en Honduras: la etiqueta de «terrorista» frente a la protesta legítima</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/escudo-de-las-americas-en-honduras-la-etiqueta-de-terrorista-frente-a-la-protesta-legitima/</description>
       <link>https://rebelion.org/escudo-de-las-americas-en-honduras-la-etiqueta-de-terrorista-frente-a-la-protesta-legitima/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">69ef5a4999eb0ce9</guid>
       <pubDate>Sat, 29 Aug 2026 16:53:29 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/69ef5a4999eb0ce9.mp3" length="15871680" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Brasil ante dos caminos</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/brasil-ante-dos-caminos/</description>
-      <link>https://rebelion.org/brasil-ante-dos-caminos/</link>
-      <guid isPermaLink="false">dba5c6af5bdeec53</guid>
-      <pubDate>Sat, 29 Aug 2026 16:50:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/dba5c6af5bdeec53.mp3" length="3465216" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Javier Giraldo, hasta siempre</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/javier-giraldo-hasta-siempre/</description>
-      <link>https://rebelion.org/javier-giraldo-hasta-siempre/</link>
-      <guid isPermaLink="false">4cffd0c03d9ae1e7</guid>
-      <pubDate>Sat, 29 Aug 2026 16:49:51 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/4cffd0c03d9ae1e7.mp3" length="1863936" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
   {
+    "id": "35cc1959a17bc769",
+    "titulo": "Dilema de la interculturalidad en América Latina",
+    "fuente": "Rebelión · América Latina y Caribe",
+    "enlace": "https://rebelion.org/dilema-de-la-interculturalidad-en-america-latina/",
+    "archivo": "35cc1959a17bc769.mp3",
+    "bytes": 1963008,
+    "timestamp": 1793040342
+  },
+  {
+    "id": "e208729ec95e4185",
+    "titulo": "La regresión teológica de América Latina y el Caribe (I)",
+    "fuente": "Rebelión · América Latina y Caribe",
+    "enlace": "https://rebelion.org/la-regresion-teologica-de-america-latina-y-el-caribe-i/",
+    "archivo": "e208729ec95e4185.mp3",
+    "bytes": 3280896,
+    "timestamp": 1793040303
+  },
+  {
     "id": "87a0312287799e61",
     "titulo": "Escudo de las Américas en Honduras: la etiqueta de «terrorista» frente a la protesta legítima",
     "fuente": "Rebelión · América Latina y Caribe",
@@ -160,23 +178,5 @@
     "archivo": "69ef5a4999eb0ce9.mp3",
     "bytes": 15871680,
     "timestamp": 1788022409
-  },
-  {
-    "id": "dba5c6af5bdeec53",
-    "titulo": "Brasil ante dos caminos",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/brasil-ante-dos-caminos/",
-    "archivo": "dba5c6af5bdeec53.mp3",
-    "bytes": 3465216,
-    "timestamp": 1788022239
-  },
-  {
-    "id": "4cffd0c03d9ae1e7",
-    "titulo": "Javier Giraldo, hasta siempre",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/javier-giraldo-hasta-siempre/",
-    "archivo": "4cffd0c03d9ae1e7.mp3",
-    "bytes": 1863936,
-    "timestamp": 1788022191
   }
 ]
