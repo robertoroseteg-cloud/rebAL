@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Maurice Bishop: adelante siempre</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/maurice-bishop-adelante-siempre/</description>
+      <link>https://rebelion.org/maurice-bishop-adelante-siempre/</link>
+      <guid isPermaLink="false">0ab141edc87745fc</guid>
+      <pubDate>Tue, 27 Oct 2026 18:12:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/0ab141edc87745fc.mp3" length="9648144" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Dilema de la interculturalidad en América Latina</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/dilema-de-la-interculturalidad-en-america-latina/</description>
       <link>https://rebelion.org/dilema-de-la-interculturalidad-en-america-latina/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">18850978e2fe8099</guid>
       <pubDate>Sat, 29 Aug 2026 16:53:51 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/18850978e2fe8099.mp3" length="3546288" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lamelas ataca de nuevo</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/lamelas-ataca-de-nuevo/</description>
-      <link>https://rebelion.org/lamelas-ataca-de-nuevo/</link>
-      <guid isPermaLink="false">69ef5a4999eb0ce9</guid>
-      <pubDate>Sat, 29 Aug 2026 16:53:29 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/69ef5a4999eb0ce9.mp3" length="15871680" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

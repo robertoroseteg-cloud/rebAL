@@ -1,5 +1,14 @@
 [
   {
+    "id": "0ab141edc87745fc",
+    "titulo": "Maurice Bishop: adelante siempre",
+    "fuente": "Rebelión · América Latina y Caribe",
+    "enlace": "https://rebelion.org/maurice-bishop-adelante-siempre/",
+    "archivo": "0ab141edc87745fc.mp3",
+    "bytes": 9648144,
+    "timestamp": 1793124740
+  },
+  {
     "id": "35cc1959a17bc769",
     "titulo": "Dilema de la interculturalidad en América Latina",
     "fuente": "Rebelión · América Latina y Caribe",
@@ -169,14 +178,5 @@
     "archivo": "18850978e2fe8099.mp3",
     "bytes": 3546288,
     "timestamp": 1788022431
-  },
-  {
-    "id": "69ef5a4999eb0ce9",
-    "titulo": "Lamelas ataca de nuevo",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/lamelas-ataca-de-nuevo/",
-    "archivo": "69ef5a4999eb0ce9.mp3",
-    "bytes": 15871680,
-    "timestamp": 1788022409
   }
 ]
