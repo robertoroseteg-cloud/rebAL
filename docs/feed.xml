@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Latinoamérica y la búsqueda del buen vivir</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</description>
+      <link>https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</link>
+      <guid isPermaLink="false">2eb8f016cd2a709d</guid>
+      <pubDate>Wed, 28 Oct 2026 18:26:40 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/2eb8f016cd2a709d.mp3" length="3039264" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La dictadura de Bukele: ambiente familiar, aplican restricciones</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</description>
+      <link>https://rebelion.org/la-dictadura-de-bukele-ambiente-familiar-aplican-restricciones/</link>
+      <guid isPermaLink="false">254ce646ced61843</guid>
+      <pubDate>Wed, 28 Oct 2026 18:25:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/254ce646ced61843.mp3" length="4270032" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El Congreso del Frente Amplio entre el respaldo y el mandato</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/el-congreso-del-frente-amplio-entre-el-respaldo-y-el-mandato/</description>
+      <link>https://rebelion.org/el-congreso-del-frente-amplio-entre-el-respaldo-y-el-mandato/</link>
+      <guid isPermaLink="false">1b901e0c80e6aa0d</guid>
+      <pubDate>Wed, 28 Oct 2026 18:25:21 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/1b901e0c80e6aa0d.mp3" length="7416288" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Maurice Bishop: adelante siempre</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/maurice-bishop-adelante-siempre/</description>
       <link>https://rebelion.org/maurice-bishop-adelante-siempre/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">9a5d3e8ce086946a</guid>
       <pubDate>Mon, 31 Aug 2026 19:14:42 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/9a5d3e8ce086946a.mp3" length="21744432" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>15 días y 15 frases</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/15-dias-y-15-frases/</description>
-      <link>https://rebelion.org/15-dias-y-15-frases/</link>
-      <guid isPermaLink="false">6260098a4a685b68</guid>
-      <pubDate>Sat, 29 Aug 2026 16:54:35 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/6260098a4a685b68.mp3" length="2331216" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Reconstrucción de Colombia: ¿Del Forec al Fondo Milagro?</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/reconstruccion-de-colombia-del-forec-al-fondo-milagro/</description>
-      <link>https://rebelion.org/reconstruccion-de-colombia-del-forec-al-fondo-milagro/</link>
-      <guid isPermaLink="false">41aa9bec8c0c2432</guid>
-      <pubDate>Sat, 29 Aug 2026 16:54:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/41aa9bec8c0c2432.mp3" length="2790000" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La crítica de la economía política y su horizonte revolucionario</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</description>
-      <link>https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</link>
-      <guid isPermaLink="false">18850978e2fe8099</guid>
-      <pubDate>Sat, 29 Aug 2026 16:53:51 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/18850978e2fe8099.mp3" length="3546288" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
