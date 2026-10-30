@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>UNAH y «cola» presupuestaria</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/unah-y-cola-presupuestaria/</description>
+      <link>https://rebelion.org/unah-y-cola-presupuestaria/</link>
+      <guid isPermaLink="false">7f7de2e033f31e40</guid>
+      <pubDate>Fri, 30 Oct 2026 18:06:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/7f7de2e033f31e40.mp3" length="3492432" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El territorio de la inteligencia artificial</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/el-territorio-de-la-inteligencia-artificial/</description>
+      <link>https://rebelion.org/el-territorio-de-la-inteligencia-artificial/</link>
+      <guid isPermaLink="false">f5c8f03ad7cd9340</guid>
+      <pubDate>Fri, 30 Oct 2026 18:05:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/f5c8f03ad7cd9340.mp3" length="5362704" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Latinoamérica y la búsqueda del buen vivir</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</description>
       <link>https://rebelion.org/latinoamerica-y-la-busqueda-del-buen-vivir/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">b988868ed1fee734</guid>
       <pubDate>Mon, 31 Aug 2026 19:16:27 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/b988868ed1fee734.mp3" length="3942288" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Actividades pro-Israel en México</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/actividades-pro-israel-en-mexico/</description>
-      <link>https://rebelion.org/actividades-pro-israel-en-mexico/</link>
-      <guid isPermaLink="false">bb675f1874410939</guid>
-      <pubDate>Mon, 31 Aug 2026 19:15:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/bb675f1874410939.mp3" length="3668544" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Martí en la Revolución cubana</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/marti-en-la-revolucion-cubana/</description>
-      <link>https://rebelion.org/marti-en-la-revolucion-cubana/</link>
-      <guid isPermaLink="false">9a5d3e8ce086946a</guid>
-      <pubDate>Mon, 31 Aug 2026 19:14:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/9a5d3e8ce086946a.mp3" length="21744432" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
