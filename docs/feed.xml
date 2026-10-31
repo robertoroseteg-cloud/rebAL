@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Armas y no libros</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/armas-y-no-libros/</description>
+      <link>https://rebelion.org/armas-y-no-libros/</link>
+      <guid isPermaLink="false">c03d238daa2335d9</guid>
+      <pubDate>Sat, 31 Oct 2026 17:19:10 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/c03d238daa2335d9.mp3" length="2612160" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Vuelve la ofensiva para privatizar zonas enteras del país</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/vuelve-la-ofensiva-para-privatizar-zonas-enteras-del-pais/</description>
+      <link>https://rebelion.org/vuelve-la-ofensiva-para-privatizar-zonas-enteras-del-pais/</link>
+      <guid isPermaLink="false">d96857b0abf1f63c</guid>
+      <pubDate>Sat, 31 Oct 2026 17:18:18 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/d96857b0abf1f63c.mp3" length="5413248" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>UNAH y «cola» presupuestaria</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/unah-y-cola-presupuestaria/</description>
       <link>https://rebelion.org/unah-y-cola-presupuestaria/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">66a9984cb3ec8169</guid>
       <pubDate>Mon, 31 Aug 2026 19:17:32 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/66a9984cb3ec8169.mp3" length="3740688" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Carta de solidaridad a Milagro Sala, presa política y militante popular</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/carta-de-solidaridad-a-milagro-sala-presa-politica-y-militante-popular/</description>
-      <link>https://rebelion.org/carta-de-solidaridad-a-milagro-sala-presa-politica-y-militante-popular/</link>
-      <guid isPermaLink="false">e1462d1124fe3745</guid>
-      <pubDate>Mon, 31 Aug 2026 19:16:57 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/e1462d1124fe3745.mp3" length="1853280" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Recrudecen los conflictos por territorios indígenas en Salta</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/recrudecen-los-conflictos-por-territorios-indigenas-en-salta/</description>
-      <link>https://rebelion.org/recrudecen-los-conflictos-por-territorios-indigenas-en-salta/</link>
-      <guid isPermaLink="false">b988868ed1fee734</guid>
-      <pubDate>Mon, 31 Aug 2026 19:16:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/b988868ed1fee734.mp3" length="3942288" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
