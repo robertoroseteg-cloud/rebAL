@@ -1,5 +1,14 @@
 [
   {
+    "id": "9ddb23da8e868d31",
+    "titulo": "Reconfiguración del bloque de poder y crisis del horizonte progresista en América Latina",
+    "fuente": "Rebelión · América Latina y Caribe",
+    "enlace": "https://rebelion.org/reconfiguracion-del-bloque-de-poder-y-crisis-del-horizonte-progresista-en-america-latina/",
+    "archivo": "9ddb23da8e868d31.mp3",
+    "bytes": 7221456,
+    "timestamp": 1793656255
+  },
+  {
     "id": "c03d238daa2335d9",
     "titulo": "Armas y no libros",
     "fuente": "Rebelión · América Latina y Caribe",
@@ -169,14 +178,5 @@
     "archivo": "216c7bcbed629daa.mp3",
     "bytes": 5182560,
     "timestamp": 1788203927
-  },
-  {
-    "id": "66a9984cb3ec8169",
-    "titulo": "Gran Max y el desarrollo local",
-    "fuente": "América Latina y Caribe – Rebelion",
-    "enlace": "https://rebelion.org/gran-max-y-el-desarrollo-local/",
-    "archivo": "66a9984cb3ec8169.mp3",
-    "bytes": 3740688,
-    "timestamp": 1788203852
   }
 ]

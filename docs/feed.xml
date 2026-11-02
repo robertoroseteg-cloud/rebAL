@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Reconfiguración del bloque de poder y crisis del horizonte progresista en América Latina</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/reconfiguracion-del-bloque-de-poder-y-crisis-del-horizonte-progresista-en-america-latina/</description>
+      <link>https://rebelion.org/reconfiguracion-del-bloque-de-poder-y-crisis-del-horizonte-progresista-en-america-latina/</link>
+      <guid isPermaLink="false">9ddb23da8e868d31</guid>
+      <pubDate>Mon, 02 Nov 2026 21:50:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/9ddb23da8e868d31.mp3" length="7221456" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Armas y no libros</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/armas-y-no-libros/</description>
       <link>https://rebelion.org/armas-y-no-libros/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">216c7bcbed629daa</guid>
       <pubDate>Mon, 31 Aug 2026 19:18:47 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/216c7bcbed629daa.mp3" length="5182560" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Gran Max y el desarrollo local</title>
-      <description>América Latina y Caribe – Rebelion — https://rebelion.org/gran-max-y-el-desarrollo-local/</description>
-      <link>https://rebelion.org/gran-max-y-el-desarrollo-local/</link>
-      <guid isPermaLink="false">66a9984cb3ec8169</guid>
-      <pubDate>Mon, 31 Aug 2026 19:17:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/66a9984cb3ec8169.mp3" length="3740688" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
