@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¡Construid cárceles, no escuelas!</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/construid-carceles-no-escuelas/</description>
+      <link>https://rebelion.org/construid-carceles-no-escuelas/</link>
+      <guid isPermaLink="false">0ae594792e6e3968</guid>
+      <pubDate>Thu, 05 Nov 2026 20:09:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/0ae594792e6e3968.mp3" length="2478384" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Vivienda popular se aleja cada año</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/vivienda-popular-se-aleja-cada-ano/</description>
+      <link>https://rebelion.org/vivienda-popular-se-aleja-cada-ano/</link>
+      <guid isPermaLink="false">9b7b902e089aac94</guid>
+      <pubDate>Thu, 05 Nov 2026 20:08:32 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/9b7b902e089aac94.mp3" length="4767120" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿El primer gendarme de Trump en América Latina?</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/el-primer-gendarme-de-trump-en-america-latina/</description>
       <link>https://rebelion.org/el-primer-gendarme-de-trump-en-america-latina/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">fb373842527b7c07</guid>
       <pubDate>Sat, 24 Oct 2026 16:17:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/fb373842527b7c07.mp3" length="2669904" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Capitalismo antidrogas: una guerra contra el pueblo</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/capitalismo-antidrogas-una-guerra-contra-el-pueblo/</description>
-      <link>https://rebelion.org/capitalismo-antidrogas-una-guerra-contra-el-pueblo/</link>
-      <guid isPermaLink="false">61f9789b4bed6fbf</guid>
-      <pubDate>Sat, 24 Oct 2026 16:17:08 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/61f9789b4bed6fbf.mp3" length="1826208" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Quiénes votan a la ultraderecha en América Latina?</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/quienes-estan-votando-por-la-ultraderecha-en-america-latina/</description>
-      <link>https://rebelion.org/quienes-estan-votando-por-la-ultraderecha-en-america-latina/</link>
-      <guid isPermaLink="false">57df6dd051298a6b</guid>
-      <pubDate>Sat, 24 Oct 2026 16:16:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/57df6dd051298a6b.mp3" length="2422368" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
