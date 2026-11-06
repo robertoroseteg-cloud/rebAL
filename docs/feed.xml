@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Santiago Peña, un presidente amigo ultra de Abascal</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/santiago-pena-un-presidente-amigo-ultra-de-abascal/</description>
+      <link>https://rebelion.org/santiago-pena-un-presidente-amigo-ultra-de-abascal/</link>
+      <guid isPermaLink="false">d07397c3c9cd05c4</guid>
+      <pubDate>Fri, 06 Nov 2026 19:33:33 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/d07397c3c9cd05c4.mp3" length="1176336" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¡Construid cárceles, no escuelas!</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/construid-carceles-no-escuelas/</description>
       <link>https://rebelion.org/construid-carceles-no-escuelas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b8f274e15aab89ed</guid>
       <pubDate>Sat, 24 Oct 2026 16:18:19 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/b8f274e15aab89ed.mp3" length="1738368" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Gobernanza, derecho al conocimiento y disputa por el saber</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/gobernanza-derecho-al-conocimiento-y-disputa-por-el-saber/</description>
-      <link>https://rebelion.org/gobernanza-derecho-al-conocimiento-y-disputa-por-el-saber/</link>
-      <guid isPermaLink="false">fb373842527b7c07</guid>
-      <pubDate>Sat, 24 Oct 2026 16:17:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/fb373842527b7c07.mp3" length="2669904" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
