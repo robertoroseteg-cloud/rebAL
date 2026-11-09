@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Revuelta, rebelión, revolución</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/revuelta-rebelion-revolucion/</description>
+      <link>https://rebelion.org/revuelta-rebelion-revolucion/</link>
+      <guid isPermaLink="false">1f14d38486dbdfe7</guid>
+      <pubDate>Mon, 09 Nov 2026 22:33:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/1f14d38486dbdfe7.mp3" length="2800512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuba frente al cerco de Washington</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/cuba-frente-al-cerco-de-washington/</description>
+      <link>https://rebelion.org/cuba-frente-al-cerco-de-washington/</link>
+      <guid isPermaLink="false">2c93f6718449534b</guid>
+      <pubDate>Mon, 09 Nov 2026 22:32:23 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/2c93f6718449534b.mp3" length="1979424" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cómo la caída de un banco en Paraguay acabó con el gobierno del presidente Santiago Peña</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/como-la-caida-de-un-banco-en-paraguay-acabo-con-el-gobierno-del-presidente-santiago-pena/</description>
       <link>https://rebelion.org/como-la-caida-de-un-banco-en-paraguay-acabo-con-el-gobierno-del-presidente-santiago-pena/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">35cc1959a17bc769</guid>
       <pubDate>Mon, 26 Oct 2026 18:45:42 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/35cc1959a17bc769.mp3" length="1963008" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La regresión teológica de América Latina y el Caribe (I)</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-regresion-teologica-de-america-latina-y-el-caribe-i/</description>
-      <link>https://rebelion.org/la-regresion-teologica-de-america-latina-y-el-caribe-i/</link>
-      <guid isPermaLink="false">e208729ec95e4185</guid>
-      <pubDate>Mon, 26 Oct 2026 18:45:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/e208729ec95e4185.mp3" length="3280896" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Escudo de las Américas en Honduras: la etiqueta de «terrorista» frente a la protesta legítima</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/escudo-de-las-americas-en-honduras-la-etiqueta-de-terrorista-frente-a-la-protesta-legitima/</description>
-      <link>https://rebelion.org/escudo-de-las-americas-en-honduras-la-etiqueta-de-terrorista-frente-a-la-protesta-legitima/</link>
-      <guid isPermaLink="false">87a0312287799e61</guid>
-      <pubDate>Sat, 24 Oct 2026 16:19:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/87a0312287799e61.mp3" length="5825952" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
