@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>FMI y agenda no concluida con JOH</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/fmi-y-agenda-no-concluida-con-joh/</description>
+      <link>https://rebelion.org/fmi-y-agenda-no-concluida-con-joh/</link>
+      <guid isPermaLink="false">dbcb8802ebb49e76</guid>
+      <pubDate>Sat, 14 Nov 2026 18:20:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/dbcb8802ebb49e76.mp3" length="4503456" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La derecha criminaliza a la oposición: exilio, detenciones y leyes para sofocar la disidencia</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-derecha-criminaliza-a-la-oposicion-exilio-detenciones-y-leyes-para-sofocar-la-disidencia/</description>
       <link>https://rebelion.org/la-derecha-criminaliza-a-la-oposicion-exilio-detenciones-y-leyes-para-sofocar-la-disidencia/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">c03d238daa2335d9</guid>
       <pubDate>Sat, 31 Oct 2026 17:19:10 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/c03d238daa2335d9.mp3" length="2612160" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Vuelve la ofensiva para privatizar zonas enteras del país</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/vuelve-la-ofensiva-para-privatizar-zonas-enteras-del-pais/</description>
-      <link>https://rebelion.org/vuelve-la-ofensiva-para-privatizar-zonas-enteras-del-pais/</link>
-      <guid isPermaLink="false">d96857b0abf1f63c</guid>
-      <pubDate>Sat, 31 Oct 2026 17:18:18 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/d96857b0abf1f63c.mp3" length="5413248" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
