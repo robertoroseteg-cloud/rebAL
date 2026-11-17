@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Un acto vergonzoso</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/un-acto-vergonzoso/</description>
+      <link>https://rebelion.org/un-acto-vergonzoso/</link>
+      <guid isPermaLink="false">8b47821b3eb3d281</guid>
+      <pubDate>Tue, 17 Nov 2026 21:07:41 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/8b47821b3eb3d281.mp3" length="2750400" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La Honduras pendiente: el país que aplaza su futuro sin calcular los costos</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-honduras-pendiente-el-pais-que-aplaza-su-futuro-sin-calcular-los-costos/</description>
+      <link>https://rebelion.org/la-honduras-pendiente-el-pais-que-aplaza-su-futuro-sin-calcular-los-costos/</link>
+      <guid isPermaLink="false">2807df0d1fcd5dc2</guid>
+      <pubDate>Tue, 17 Nov 2026 21:06:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/2807df0d1fcd5dc2.mp3" length="4789872" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Conferencia Regional Antiimperialista y Antifascista</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/conferencia-regional-antiimperialista-y-antifascista/</description>
       <link>https://rebelion.org/conferencia-regional-antiimperialista-y-antifascista/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">d9f167b4fab0c1b6</guid>
       <pubDate>Wed, 04 Nov 2026 20:00:11 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/d9f167b4fab0c1b6.mp3" length="5287680" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La infraestructura de la promesa</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-infraestructura-de-la-promesa/</description>
-      <link>https://rebelion.org/la-infraestructura-de-la-promesa/</link>
-      <guid isPermaLink="false">4cb1f29694181e1a</guid>
-      <pubDate>Wed, 04 Nov 2026 19:58:43 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/4cb1f29694181e1a.mp3" length="4940064" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cruzados de la libertad</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/cruzados-de-la-libertad/</description>
-      <link>https://rebelion.org/cruzados-de-la-libertad/</link>
-      <guid isPermaLink="false">54b76447492b26da</guid>
-      <pubDate>Wed, 04 Nov 2026 19:57:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/54b76447492b26da.mp3" length="9238464" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
