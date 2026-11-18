@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>América Latina, laboratorio de las ciudades privadas</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/america-latina-laboratorio-de-las-ciudades-privadas/</description>
+      <link>https://rebelion.org/america-latina-laboratorio-de-las-ciudades-privadas/</link>
+      <guid isPermaLink="false">ce211d2660466fd8</guid>
+      <pubDate>Wed, 18 Nov 2026 20:49:15 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/ce211d2660466fd8.mp3" length="4336272" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El Papa León XIV frente a católicos y evangélicos latinoamericanos</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/el-papa-leon-xiv-frente-a-catolicos-y-evangelicos-latinoamericanos/</description>
+      <link>https://rebelion.org/el-papa-leon-xiv-frente-a-catolicos-y-evangelicos-latinoamericanos/</link>
+      <guid isPermaLink="false">11384deefe214f45</guid>
+      <pubDate>Wed, 18 Nov 2026 20:46:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/11384deefe214f45.mp3" length="2724768" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bukele exporta su modelo represivo</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/bukele-exporta-su-modelo-represivo/</description>
+      <link>https://rebelion.org/bukele-exporta-su-modelo-represivo/</link>
+      <guid isPermaLink="false">65d150e9c7b06588</guid>
+      <pubDate>Wed, 18 Nov 2026 20:45:10 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/65d150e9c7b06588.mp3" length="3799728" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Un acto vergonzoso</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/un-acto-vergonzoso/</description>
       <link>https://rebelion.org/un-acto-vergonzoso/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">d07397c3c9cd05c4</guid>
       <pubDate>Fri, 06 Nov 2026 19:33:33 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/d07397c3c9cd05c4.mp3" length="1176336" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¡Construid cárceles, no escuelas!</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/construid-carceles-no-escuelas/</description>
-      <link>https://rebelion.org/construid-carceles-no-escuelas/</link>
-      <guid isPermaLink="false">0ae594792e6e3968</guid>
-      <pubDate>Thu, 05 Nov 2026 20:09:24 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/0ae594792e6e3968.mp3" length="2478384" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Vivienda popular se aleja cada año</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/vivienda-popular-se-aleja-cada-ano/</description>
-      <link>https://rebelion.org/vivienda-popular-se-aleja-cada-ano/</link>
-      <guid isPermaLink="false">9b7b902e089aac94</guid>
-      <pubDate>Thu, 05 Nov 2026 20:08:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/9b7b902e089aac94.mp3" length="4767120" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿El primer gendarme de Trump en América Latina?</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/el-primer-gendarme-de-trump-en-america-latina/</description>
-      <link>https://rebelion.org/el-primer-gendarme-de-trump-en-america-latina/</link>
-      <guid isPermaLink="false">d9f167b4fab0c1b6</guid>
-      <pubDate>Wed, 04 Nov 2026 20:00:11 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/d9f167b4fab0c1b6.mp3" length="5287680" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
