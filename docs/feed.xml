@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El entramado detrás de la crisis en Paraguay</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/del-colapso-bancario-a-la-caida-presidencial-el-entramado-detras-de-la-crisis-en-paraguay/</description>
+      <link>https://rebelion.org/del-colapso-bancario-a-la-caida-presidencial-el-entramado-detras-de-la-crisis-en-paraguay/</link>
+      <guid isPermaLink="false">4dbdc68c19de2b3f</guid>
+      <pubDate>Sat, 21 Nov 2026 19:32:43 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/4dbdc68c19de2b3f.mp3" length="5888592" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La soberanía latinoamericana frente al regreso de la fuerza</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-soberania-latinoamericana-frente-al-regreso-de-la-fuerza/</description>
+      <link>https://rebelion.org/la-soberania-latinoamericana-frente-al-regreso-de-la-fuerza/</link>
+      <guid isPermaLink="false">3cb0567a3ec13a76</guid>
+      <pubDate>Sat, 21 Nov 2026 19:32:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/3cb0567a3ec13a76.mp3" length="7026192" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mariátegui hoy</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/mariategui-hoy/</description>
       <link>https://rebelion.org/mariategui-hoy/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">cca816663605a845</guid>
       <pubDate>Wed, 11 Nov 2026 19:47:26 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/cca816663605a845.mp3" length="6923376" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cerimedo contó los votos</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/cerimedo-conto-los-votos/</description>
-      <link>https://rebelion.org/cerimedo-conto-los-votos/</link>
-      <guid isPermaLink="false">34a7a8008943e684</guid>
-      <pubDate>Tue, 10 Nov 2026 19:55:07 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/34a7a8008943e684.mp3" length="2258640" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Haití no necesita salvadores, necesita que se respete su dignidad y su derecho a la libertad</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/haiti-no-necesita-salvadores-necesita-que-se-respete-su-dignidad-y-su-derecho-a-la-libertad/</description>
-      <link>https://rebelion.org/haiti-no-necesita-salvadores-necesita-que-se-respete-su-dignidad-y-su-derecho-a-la-libertad/</link>
-      <guid isPermaLink="false">fee0c30a0a3b6402</guid>
-      <pubDate>Tue, 10 Nov 2026 19:53:43 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/fee0c30a0a3b6402.mp3" length="3298464" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
