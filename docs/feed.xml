@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La represión en marcha</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-represion-en-marcha/</description>
+      <link>https://rebelion.org/la-represion-en-marcha/</link>
+      <guid isPermaLink="false">857951b3f16a4070</guid>
+      <pubDate>Tue, 24 Nov 2026 22:40:48 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/857951b3f16a4070.mp3" length="2412432" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La economía agroecológica avanza en América: lecciones desde los movimientos</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-economia-agroecologica-avanza-en-america-lecciones-desde-los-movimientos/</description>
+      <link>https://rebelion.org/la-economia-agroecologica-avanza-en-america-lecciones-desde-los-movimientos/</link>
+      <guid isPermaLink="false">d524d4771763e169</guid>
+      <pubDate>Tue, 24 Nov 2026 22:39:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/d524d4771763e169.mp3" length="4370832" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Votar en dictadura es legitimar al dictador</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/votar-en-dictadura-es-legitimar-al-dictador/</description>
+      <link>https://rebelion.org/votar-en-dictadura-es-legitimar-al-dictador/</link>
+      <guid isPermaLink="false">7f781222436abc8a</guid>
+      <pubDate>Tue, 24 Nov 2026 22:37:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/7f781222436abc8a.mp3" length="2192400" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Orden de captura contra Marlon Ochoa</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/orden-de-captura-contra-marlon-ochoa/</description>
       <link>https://rebelion.org/orden-de-captura-contra-marlon-ochoa/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">2ad07bf2e553e906</guid>
       <pubDate>Mon, 16 Nov 2026 22:23:17 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/2ad07bf2e553e906.mp3" length="10612224" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>FMI y agenda no concluida con JOH</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/fmi-y-agenda-no-concluida-con-joh/</description>
-      <link>https://rebelion.org/fmi-y-agenda-no-concluida-con-joh/</link>
-      <guid isPermaLink="false">dbcb8802ebb49e76</guid>
-      <pubDate>Sat, 14 Nov 2026 18:20:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/dbcb8802ebb49e76.mp3" length="4503456" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La derecha criminaliza a la oposición: exilio, detenciones y leyes para sofocar la disidencia</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/la-derecha-criminaliza-a-la-oposicion-exilio-detenciones-y-leyes-para-sofocar-la-disidencia/</description>
-      <link>https://rebelion.org/la-derecha-criminaliza-a-la-oposicion-exilio-detenciones-y-leyes-para-sofocar-la-disidencia/</link>
-      <guid isPermaLink="false">980f0e49d3f1c1f4</guid>
-      <pubDate>Fri, 13 Nov 2026 19:53:52 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/980f0e49d3f1c1f4.mp3" length="3870576" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Paraguay: las contradicciones del paraíso neoliberal</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/paraguay-las-contradicciones-del-paraiso-neoliberal/</description>
-      <link>https://rebelion.org/paraguay-las-contradicciones-del-paraiso-neoliberal/</link>
-      <guid isPermaLink="false">6e98dfb3b6f0668a</guid>
-      <pubDate>Thu, 12 Nov 2026 20:09:34 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/6e98dfb3b6f0668a.mp3" length="4942656" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
