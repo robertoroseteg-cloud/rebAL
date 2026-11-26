@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Pronóstico reservado para el sistema de salud de Puerto Rico bajo la Junta de EE.UU.</title>
+      <description>Rebelión · América Latina y Caribe — https://rebelion.org/pronostico-reservado-para-el-sistema-de-salud-de-puerto-rico-bajo-la-junta-de-ee-uu/</description>
+      <link>https://rebelion.org/pronostico-reservado-para-el-sistema-de-salud-de-puerto-rico-bajo-la-junta-de-ee-uu/</link>
+      <guid isPermaLink="false">eece7e8646f5867d</guid>
+      <pubDate>Thu, 26 Nov 2026 21:46:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/eece7e8646f5867d.mp3" length="7420032" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Un país para quién y para beneficio de quién?</title>
       <description>Rebelión · América Latina y Caribe — https://rebelion.org/un-pais-para-quien-y-para-beneficio-de-quien/</description>
       <link>https://rebelion.org/un-pais-para-quien-y-para-beneficio-de-quien/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">65d150e9c7b06588</guid>
       <pubDate>Wed, 18 Nov 2026 20:45:10 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/65d150e9c7b06588.mp3" length="3799728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Un acto vergonzoso</title>
-      <description>Rebelión · América Latina y Caribe — https://rebelion.org/un-acto-vergonzoso/</description>
-      <link>https://rebelion.org/un-acto-vergonzoso/</link>
-      <guid isPermaLink="false">8b47821b3eb3d281</guid>
-      <pubDate>Tue, 17 Nov 2026 21:07:41 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebAL/episodios/8b47821b3eb3d281.mp3" length="2750400" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
